@@ -20,9 +20,13 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderangshu&theme=tokyonight&layout=compact)](https://github.com/Coderangshu/github-readme-stats)
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Coderangshu/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/Coderangshu/github-readme-stats)
 </p>
 </details>
+
+
+
+
 <!--
 **Coderangshu/Coderangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 - 🌱 I’m currently in the process of learning 
 - 💬 Ask me about Python, C, OOPS, Data Structures, CNNs, RNNs, opencv.
 - 😄 Pronouns: He/his/him
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angshuman Sengupta-blue.svg)](https://www.linkedin.com/in/angshumansengupta98)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angshuman_Sengupta-blue.svg)](https://www.linkedin.com/in/angshumansengupta98)
 [![Twitter](https://img.shields.io/badge/Twitter-Every1callAngsu_-red.svg)](https://twitter.com/Every1callAngsu)
 [![Instagram](https://img.shields.io/badge/Instagram-angshunreal-yellow.svg)](https://www.instagram.com/angshunreal)
 

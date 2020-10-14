@@ -1,9 +1,14 @@
-<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-### Hi there 👋
+<a href="https://twitter.com/Every1callAngsu" target="_blank" rel="nofollow"><img align="right" alt="Angshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/angshumansengupta98" target="_blank" rel="nofollow"><img align="right" alt="Angshu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/angshunreal" target="_blank" rel="nofollow"><img align="right" alt="Angshu's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+### Hi there 👋 this is Angshuman, welcome to my Github kingdom
 
-<!--### 🔭 I’m currently working on --!>
+### 🌱 I’m currently in the process of learning 
+
+### 💬 Ask me about Python ,C, CNNs, RNNs, opencv.
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img src="	https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
 <!--
 **Coderangshu/Coderangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

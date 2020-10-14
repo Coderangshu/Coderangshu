@@ -32,7 +32,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 
 ---
 
-Show some ❤ Follow me and put up ⭐ if you love any of my repos. This is just the beginning.😉
+<p align=center>Show some ❤ Follow me and put up ⭐ if you love any of my repos. This is just the beginning.😉 </p>
 
 
 <!--

@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderangshu&theme=tokyonight&layout=compact)](https://github.com/Coderangshu/github-readme-stats)
 
 
-[![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu)](https://github.com/Coderangshu/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Coderangshu/github-readme-stats)
 
 
 <!--

@@ -7,6 +7,8 @@
 ### 🌱 I’m currently in the process of learning 
 ### 💬 Ask me about Python, C, CNNs, RNNs, opencv.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderangshu)](https://github.com/Coderangshu/github-readme-stats)
+
 [![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Coderangshu/github-readme-stats)
 
 

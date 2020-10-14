@@ -7,7 +7,7 @@
 ### 🌱 I’m currently in the process of learning 
 ### 💬 Ask me about Python, C, CNNs, RNNs, opencv.
 
-[![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&count_private=true&show_icons=true&theme=radical)](https://github.com/Coderangshu/github-readme-stats)
+[![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&count_private=true&show_icons=true&theme=merko)](https://github.com/Coderangshu/github-readme-stats)
 
 
 

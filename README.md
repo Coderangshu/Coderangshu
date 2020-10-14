@@ -1,5 +1,8 @@
 
 ### Hi there 👋 this is Angshuman
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+
 I am a learner-developer who is passionate about stuff like Augmented and Virtual reality, Image processing and graphics, deep learning and data science. My comfort lies in Python, PyTorch, TensorFlow and openCV. I am actively looking for opportunities in Artificial Intelligence.
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
@@ -10,8 +13,6 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 - 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-AngshumanSengupta-blue.svg)](https://www.linkedin.com/in/angshumansengupta98)
 [![Twitter](https://img.shields.io/badge/Twitter-AngshumanSengupta_-red.svg)](https://twitter.com/Every1callAngsu)
 [![Instagram](https://img.shields.io/badge/Instagram-AngshumanSengupta-yellow.svg)](https://www.instagram.com/angshunreal)
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />      <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 ---
 <details open>

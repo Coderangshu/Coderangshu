@@ -25,7 +25,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 </details>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderangshu&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22Coderangshu" /> </p>
 
 <!--
 **Coderangshu/Coderangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

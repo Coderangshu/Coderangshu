@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=20 height=20 /> 👋 this is Angshuman
+### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=30 height=30 />  this is Angshuman
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
@@ -37,7 +37,7 @@ Show some ❤ Follow me and put up ⭐ if you love any of my repos. This is just
 
 <!--
 **Coderangshu/Coderangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

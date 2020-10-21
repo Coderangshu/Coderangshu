@@ -13,7 +13,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 - 😄 Pronouns: He/his/him
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angshuman_Sengupta-blue.svg)](https://www.linkedin.com/in/angshumansengupta98)
 [![Twitter](https://img.shields.io/badge/Twitter-Every1callAngsu_-white.svg)](https://twitter.com/Every1callAngsu)
-[![Instagram](https://img.shields.io/badge/Instagram-angshunreal-pink.svg)](https://www.instagram.com/angshunreal)
+[![Instagram](https://img.shields.io/badge/Instagram-angshunreal-magenta.svg)](https://www.instagram.com/angshunreal)
 [![Gmail](https://img.shields.io/badge/-Angshuman-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:senguptaangshuman17@gmail.com)
 
 ---

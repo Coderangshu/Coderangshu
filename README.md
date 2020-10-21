@@ -16,7 +16,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 [![Instagram](https://img.shields.io/badge/Instagram-angshunreal-pink.svg)](https://www.instagram.com/angshunreal)
 
 ---
-<details open>
+<details close>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">

@@ -9,7 +9,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 👋 My personal [ML website](https://Coderangshu.github.io)
 - 🌱 I’m currently in the process of learning 
-- 💬 Ask me about Python, C, OOPS, Data Structures, CNNs, RNNs, opencv,CI/CD using DVC and GitHub workflows.
+- 💬 Ask me about Python, C, OOPS, Data Structures, CNNs, RNNs, opencv,DVC and GitHub workflows.
 - 😄 Pronouns: He/his/him
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-Angshuman_Sengupta-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angshumansengupta98) [![Twitter](https://img.shields.io/badge/-Every1callAngsu_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Every1callAngsu) [![Facebook](https://img.shields.io/badge/-Angshuman_Sengupta-4267B2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/angshuman.sengupta.5/) [![Instagram](https://img.shields.io/badge/-angshunreal-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/angshunreal) [![Gmail](https://img.shields.io/badge/-Angshuman-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:senguptaangshuman17@gmail.com)
 
@@ -19,11 +19,11 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 <br>
 <p align = "center">
   
-  [![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
+  [![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&bg_color=30,2eb67d,36c5f0)](https://github.com/Coderangshu/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderangshu&hide_border=true&bg_color=30,80bb03,ffb903&layout=compact)](https://github.com/Coderangshu/github-readme-stats)
   
-  [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu&hide_border=true&bg_color=30,2eb67d,36c5f0)](https://github.com/Coderangshu/github-readme-stats)
+  [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu&hide_border=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
   <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week

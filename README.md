@@ -25,10 +25,51 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
   
   [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu&hide_border=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
   <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14645%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 256 Contributions in the Year 2020
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-Python       2 hrs 31 mins   ████████████████████████▓   98.97 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+🌞 Morning    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+🌆 Daytime    30 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+🌃 Evening    58 commits     ██████████░░░░░░░░░░░░░░░   42.03% 
+🌙 Night      34 commits     ██████░░░░░░░░░░░░░░░░░░░   24.64%
+
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   2 hrs 31 mins       ████████████████████████░   98.97% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+Atom                     1 hr 50 mins        ██████████████████░░░░░░░   71.77% 
+VS Code                  43 mins             ███████░░░░░░░░░░░░░░░░░░   28.23%
+
+```
+
+
 <!--END_SECTION:waka-->
   
 </p>

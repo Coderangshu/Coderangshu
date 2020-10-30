@@ -23,7 +23,8 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderangshu&hide_border=true&bg_color=30,80bb03,ffb903&layout=compact)](https://github.com/Coderangshu/github-readme-stats)
   
- 
+  [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangsu&hide_border=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
+  
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-822820%20lines%20of%20code-blue)
 

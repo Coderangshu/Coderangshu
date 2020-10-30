@@ -26,7 +26,8 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
   [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu&hide_border=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
   <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       2 hrs 31 mins   ████████████████████████▓   98.97 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
   

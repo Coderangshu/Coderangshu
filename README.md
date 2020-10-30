@@ -19,7 +19,7 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
 <br>
 <p align = "center">
   
-  [![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&count_private=true&show_icons=true&theme=tokyonight&bgcolor=pink,violet)](https://github.com/Coderangshu/github-readme-stats)
+  [![Angshuman's github stats](https://github-readme-stats.vercel.app/api?username=Coderangshu&count_private=true&show_icons=true&bgcolor=pink,violet)](https://github.com/Coderangshu/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderangshu&theme=tokyonight&layout=compact)](https://github.com/Coderangshu/github-readme-stats)
   

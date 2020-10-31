@@ -26,18 +26,12 @@ I am a learner-developer who is passionate about stuff like Augmented and Virtua
   [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu&hide_border=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-822820%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806321%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 31 mins       ████████████████████████░   98.97% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 Atom                     1 hr 50 mins        ██████████████████░░░░░░░   71.77% 

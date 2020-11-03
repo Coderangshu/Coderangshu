@@ -26,7 +26,7 @@ I am a learner-developer who is passionate about stuffs like Augmented and Virtu
   [![Angshuman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderangshu&hide_border=true&bg_color=30,f46f30,c32aa3)](https://github.com/Coderangshu/github-readme-stats)
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-800856%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-837746%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,8 +34,8 @@ I am a learner-developer who is passionate about stuffs like Augmented and Virtu
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  12 hrs 46 mins      ████████████████████░░░░░   81.01% 
-Atom                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.99%
+VS Code                  13 hrs 9 mins       ████████████████████░░░░░   80.63% 
+Atom                     3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.37%
 
 ```
 

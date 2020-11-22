@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
-I am a learner-developer who is passionate about stuffs like Augmented and Virtual reality, Image processing and graphics, deep learning and data science. My comfort lies in Python, PyTorch, TensorFlow and openCV. I am actively looking for opportunities in Artificial Intelligence.
+I am a learner-developer who is passionate about stuffs like Augmented and Virtual reality, Image processing and graphics, deep learning and data science. My comfort lies in Python, PyTorch, TensorFlow and openCV. I am actively looking for opportunities in Artificial Intelligence and trying to indulge myself into the wonderful world of Open Source Community.
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 👋 My personal [ML website](https://Coderangshu.github.io)

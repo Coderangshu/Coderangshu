@@ -15,7 +15,7 @@ I am a learner-developer who is passionate about stuffs like Augmented and Virtu
 
 ---
 <details close>
- <summary> 😇 <b>My Github Stats</b> </summary>
+ <summary> 😇 <b>My Github Stats (Click to expand)</b> </summary>
 <br>
 <p align = "center">
   

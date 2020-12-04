@@ -2,7 +2,7 @@
 # Hi there <img src="https://github.com/Coderangshu/Coderangshu/blob/main/gifs/hi.gif" width=30 height=30 /> </H1> 
 <H3>This is Angshuman's GitHub Profile </H3>
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
 I am a learner-developer who is passionate about stuffs like Augmented and Virtual reality, Image processing and graphics, deep learning and data science. My comfort lies in Python, PyTorch, TensorFlow and openCV. I am actively looking for opportunities in Artificial Intelligence and trying to indulge myself into the wonderful world of Open Source Community.
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.

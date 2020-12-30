@@ -34,7 +34,7 @@ I am a learner-developer who is passionate about stuffs like Augmented and Virtu
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.0%
+VS Code                  55 mins             █████████████████████████   100.0%
 
 ```
 

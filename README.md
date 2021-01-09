@@ -34,7 +34,7 @@ I am a learner-developer who is passionate about stuffs like Augmented and Virtu
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-Atom                     5 hrs 3 mins        █████████████████████████   100.0%
+Atom                     5 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 

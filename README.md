@@ -34,7 +34,7 @@ I am a learner-developer who is passionate about stuffs like Augmented and Virtu
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
